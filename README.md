@@ -14,7 +14,7 @@ This git repository contains 6 IntelliJ IDEA projects, one application for serve
 8. Get result from teacher service which pass request through student service by calling **HTTP GET** [http://localhost:8082/v1/teacher/studentReport](http://localhost:8082/v1/teacher/studentReport)
 9. Check service health status by run service dashboard `...`
 
-## Members
+## Members of Pittaya Group
 
 1. นางสาวณัฏฐ์นรี เรืองขจร 61070050
 2. นายพสธร ภักดิ์แจ่มใส 61070132
