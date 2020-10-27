@@ -1,6 +1,6 @@
 # eureka-service-discovery
 
-This git repository contains 3 Eclipse projects, one application for server side named 'service-discovery-server' and two applications for client side, first is student services application named 'service-discovery-client1' and another one is teacher services application named 'service-discovery-client2' which used RESTful services from the first application.
+This git repository contains 6 IntelliJ IDEA projects, one application for server side named 'service-discovery-server' and five applications for client side named 'service-discovery-client1', 'service-discovery-client2', 'service-discovery-client3', 'service-discovery-client4', 'service-discovery-client5' respectively
 
 ## Setup
 
